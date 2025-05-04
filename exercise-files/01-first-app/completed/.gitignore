@@ -1,0 +1,36 @@
+# Node modules
+/node_modules
+
+# Yarn
+/yarn-error.log
+
+# Parcel
+/.cache
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Testing
+/coverage
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Trello token (if you use it locally)
+trello_token.txt
+
+#GraphQL schema (if generated locally)
+schema.graphql
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
